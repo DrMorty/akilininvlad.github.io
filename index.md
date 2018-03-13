@@ -10,9 +10,9 @@ You can reach me through:
 ## Education
 - MIPT (2017-...)
 
-## Languages
+## Languages:
 -Native Russian
--English 
+-English (B1)
 ## Computer languages
 -Python
 ## Skills 
